@@ -1,6 +1,6 @@
 {
-  "name": "la00-atm-machine",
-  "version": "2.0.3",
+  "name": "la00a-atm-machine",
+  "version": "2.0.7",
   "description": "",
   "main": "index.js",
   "type": "module",
